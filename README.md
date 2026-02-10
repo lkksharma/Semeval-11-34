@@ -4,7 +4,7 @@
 
 ### SemEval-2026 Task 11 — Subtasks 3 & 4
 
-**Team lakksh**
+
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
@@ -208,7 +208,7 @@ This gives retrieval the benefit of multilingual understanding while insulating 
 @inproceedings{lakksh-2026-semeval-multilingual,
     title     = {Revisiting Content Bias in Multilingual Natural Language 
                  Inference: A Case Study in Syllogistic Reasoning},
-    author    = {Team lakksh},
+    author    = {Lakksh Sharma, Krish Sharma, Jatin Bedi},
     booktitle = {Proceedings of the 20th International Workshop on 
                  Semantic Evaluation (SemEval-2026)},
     year      = {2026},
