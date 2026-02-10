@@ -37,9 +37,8 @@ except ImportError as e:
     def split_sentences_multilingual(text): return text.split(". ")
 
 # --- Configuration ---
-API_KEY = "AIzaSyCWCTYhUp87rhIVm8NFkivny5OF2xrmNwk" 
-os.environ["GOOGLE_API_KEY"] = API_KEY
-os.environ["GEMINI_API_KEY"] = API_KEY
+API_KEY = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")" 
+
 
 if not API_KEY:
     raise ValueError("GEMINI_API_KEY not found.")
