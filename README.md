@@ -208,7 +208,7 @@ This gives retrieval the benefit of multilingual understanding while insulating 
 @inproceedings{lakksh-2026-semeval-multilingual,
     title     = {Revisiting Content Bias in Multilingual Natural Language 
                  Inference: A Case Study in Syllogistic Reasoning},
-    author    = {Team lakksh},
+    author    = {Lakksh Sharma, Krish Sharma, Jatin Bedi},
     booktitle = {Proceedings of the 20th International Workshop on 
                  Semantic Evaluation (SemEval-2026)},
     year      = {2026},
